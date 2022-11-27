@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Обучение\4. Введение в языки программирования\Homework_C#\Homework_Seminar_1\Zadacha_8\bin\Debug\net6.0\Zadacha_8.exe
+C:\Users\Asus\Desktop\Обучение\4. Введение в языки программирования\Homework_C#\Homework_Seminar_1\Zadacha_8\bin\Debug\net6.0\Zadacha_8.deps.json
+C:\Users\Asus\Desktop\Обучение\4. Введение в языки программирования\Homework_C#\Homework_Seminar_1\Zadacha_8\bin\Debug\net6.0\Zadacha_8.runtimeconfig.json
+C:\Users\Asus\Desktop\Обучение\4. Введение в языки программирования\Homework_C#\Homework_Seminar_1\Zadacha_8\bin\Debug\net6.0\Zadacha_8.dll
+C:\Users\Asus\Desktop\Обучение\4. Введение в языки программирования\Homework_C#\Homework_Seminar_1\Zadacha_8\bin\Debug\net6.0\Zadacha_8.pdb
+C:\Users\Asus\Desktop\Обучение\4. Введение в языки программирования\Homework_C#\Homework_Seminar_1\Zadacha_8\obj\Debug\net6.0\Zadacha_8.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Обучение\4. Введение в языки программирования\Homework_C#\Homework_Seminar_1\Zadacha_8\obj\Debug\net6.0\Zadacha_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Обучение\4. Введение в языки программирования\Homework_C#\Homework_Seminar_1\Zadacha_8\obj\Debug\net6.0\Zadacha_8.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Обучение\4. Введение в языки программирования\Homework_C#\Homework_Seminar_1\Zadacha_8\obj\Debug\net6.0\Zadacha_8.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Обучение\4. Введение в языки программирования\Homework_C#\Homework_Seminar_1\Zadacha_8\obj\Debug\net6.0\Zadacha_8.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Обучение\4. Введение в языки программирования\Homework_C#\Homework_Seminar_1\Zadacha_8\obj\Debug\net6.0\Zadacha_8.dll
+C:\Users\Asus\Desktop\Обучение\4. Введение в языки программирования\Homework_C#\Homework_Seminar_1\Zadacha_8\obj\Debug\net6.0\refint\Zadacha_8.dll
+C:\Users\Asus\Desktop\Обучение\4. Введение в языки программирования\Homework_C#\Homework_Seminar_1\Zadacha_8\obj\Debug\net6.0\Zadacha_8.pdb
+C:\Users\Asus\Desktop\Обучение\4. Введение в языки программирования\Homework_C#\Homework_Seminar_1\Zadacha_8\obj\Debug\net6.0\Zadacha_8.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Обучение\4. Введение в языки программирования\Homework_C#\Homework_Seminar_1\Zadacha_8\obj\Debug\net6.0\ref\Zadacha_8.dll
